@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift programming: index out of bounds exceptions when accessing array elements. The 'bug.swift' file contains code that can potentially throw this exception.  The 'bugSolution.swift' provides a safe alternative.
